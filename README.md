@@ -1,6 +1,6 @@
 # Automated covid plots generator
 Creates JPEG files with plots of daily cumulative vs active cases in R of specified date range.
-The JPEGs generated with this code can be used to make gifs.
+The JPEGs generated with this code can be used to make gifs like this: https://twitter.com/MaayaZIkeda/status/1284863386048696321?s=20
 
 To use this please follow this instruction:
 1. Get the data from here: https://docs.google.com/spreadsheets/d/1ig-JiRQjD1NkYXwbG5QnMIh80aj8SQZQ1NtlxwkCCTg/edit?usp=sharing
