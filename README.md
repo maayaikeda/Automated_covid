@@ -10,3 +10,5 @@ To use this please follow this instruction:
 
 * The data is from https://www.worldometers.info
 
+** This is just for fun. Made by request.
+
